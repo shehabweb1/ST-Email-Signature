@@ -1,2 +1,2 @@
-# ST-Email-Signture
-ST Email Signture
+# ST-Email-Signature
+ST Email Signature
